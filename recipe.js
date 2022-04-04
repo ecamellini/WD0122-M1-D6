@@ -34,3 +34,9 @@ mediumBowl += flour
 // EXACTLY LIKE WRITING mediumBowl = mediumBowl + flour
 // Syntactic sugar: a "sweeter" way to write the same thing.
 console.log(mediumBowl)
+
+// We are satisfied. We empty the bowl.
+mediumBowl = null
+console.log(mediumBowl)
+// We use null when we want to make something empty explicitly.
+// It's not empty by accident - WE made id emtpy.
