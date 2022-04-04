@@ -8,6 +8,8 @@ WHO ARE THE TARGETS OF COMMENTS:
 - Your coworkers, whoever may work on this code in the future
 */
 
+console.log("Hello! Welcome to the programming kitchen :)")
+
 // This is another way to write a comment, on just a single line.
 let butter = 80
 let sugar = 120
